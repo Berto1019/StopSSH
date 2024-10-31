@@ -1,0 +1,8 @@
+name: "StopSSH"
+description: "Turns SSH on and off"
+author: "Berto1019"
+tactic: "damage"
+input_parameters:
+  - name: StopSSH
+    type: "system"
+    description: "Turns off ssh using systemctl"
