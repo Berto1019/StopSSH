@@ -1,5 +1,5 @@
 name: "StopSSH"
-description: "Turns SSH on and off"
+description: "Turns SSH off"
 author: "Berto1019"
 tactic: "damage"
 input_parameters:
